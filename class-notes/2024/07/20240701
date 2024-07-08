@@ -1,0 +1,36 @@
+
+	1. Java Standard Edition (JDK)
+	2. Java Enterprise Edition (JSDK)
+	3. Java Micro Edition (?)
+	
+	JEE - Jakarta Enterprise Edition
+	
+	Maven - Project/dependency manager for Java
+	
+	Target
+	
+	SQL
+		- Oracle
+		- SQL Server
+		
+	Ryan Dahl	-	2009 (V8 + C++)
+	
+	
+	M	-	MongoDB
+	E	-	Express
+	R	-	React
+	N	-	Node	-	JS Runtime Environment
+	
+	Services:
+		Accounting
+		Inventory Control
+		Payroll
+		Taxation
+		
+	Inversion of control - Dependency Injection
+	
+	HTML: HyperText Markup Language
+	
+	JEE	-	Servlet, JSP, Hibernate
+	
+	
