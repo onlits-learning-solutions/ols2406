@@ -1,0 +1,23 @@
+	
+	Java
+	
+	java Sum 10 20
+	
+	public static void main(String[] args)
+	
+	PHP	-	Helps in processing request via server eg. store data,
+			send email.
+	
+	Java can be used as PHP to achieve the same objective.
+	
+	Apache Tomcat: Servlet Container
+	
+	Apache HTTP server
+	MS IIS
+	Nginx
+	
+	public class TodoController extends GenericServlet {
+	
+	}
+	
+	

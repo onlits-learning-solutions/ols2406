@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "jee/todoapp/WEB-INF/src"
+    ],
+    "java.project.referencedLibraries": [
+        "/home/manish/classpath/junit-4.10.jar",
+        "/home/manish/classpath/mariadb-java-client-3.3.3.jar",
+        "/home/manish/classpath/servlet-api.jar"
+    ]
+}

@@ -1,0 +1,25 @@
+
+	Deployment Descriptor	-	web.xml
+	
+	In old application:
+		We requested for a resources which was a web page.
+		
+	But in modern application we may request for a class methods or
+	an independent function.
+	
+	In servlet, we write HTML in Java programs.
+	In JSP, we write Java in HTML.
+	
+	
+	Model			-	PHP class/function	-	Data Access
+	View			-	PHP in HTML
+	Controller		-	PHP class/function	-	Request Handling
+	
+	
+	Model			-	Servlet
+	View			-	JSP
+	Controller		-	Servlet
+	
+	Beans
+	
+	BDK
