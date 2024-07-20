@@ -1,0 +1,9 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.project.sourcePaths": [],
+    "java.project.referencedLibraries": [
+        "/home/manish/classpath/servlet-api.jar",
+        "/home/manish/classpath/junit-4.10.jar",
+        "/home/manish/classpath/mariadb-java-client-3.3.3.jar"
+    ]
+}

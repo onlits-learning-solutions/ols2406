@@ -1,0 +1,18 @@
+.container {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+/* ------------------ form1 ---------------- */
+form.form1 input {
+    display: block;
+    margin-bottom: 10px;
+    padding: 5px;
+    width: 90%;
+}
+
+form.form1 button {
+    display: block;
+    margin-bottom: 10px;
+    padding: 5px;
+}

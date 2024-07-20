@@ -1,0 +1,30 @@
+
+Applet lifecycle methods
+ init
+ start
+ paint
+ stop
+ destroy
+ 
+ Relational Model
+ 	Schema
+ 	
+ 	Chat
+ 		posts
+ 			id
+ 			post
+ 		
+ 		
+ 	Todo
+ 	Blog
+ 	
+ 	
+ 	union post {
+ 		string text;	//1 MB
+ 		binary image;	//10 MB
+ 		binary video;	//100 MB
+ 	}
+ 	
+ 	blob
+ 	
+ 	sizeof(post)	=	sizeof video

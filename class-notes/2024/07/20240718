@@ -1,0 +1,12 @@
+mvn archetype:generate "-DgroupId=ols2406.todoapp" "-DartifactId=todo-app" "-DarchetypeArtifactId=maven-archetype-webapp" "-DarchetypeVersion=1.4" "-DinteractiveMode=false"
+
+
+Servlet will always extends GenericServlet or HttpServlet
+
+When a class will be known a 'thread'.
+	If a class extends the Thread class or if a class implements
+	Runnable interface.
+
+	Bicycle and Cycle Rickshaw will not remain road legal.
+	
+	
