@@ -1,0 +1,28 @@
+
+	Rule
+	Selector
+	
+	
+	.form1 button {				/* selector */
+    display: block;				/*Declaration (property:value)*/
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+	Basic Selector:
+		Element
+		Class
+		ID
+		Mixed
+		
+	button {		/*element select*/
+	
+	}
+	
+	.green {		/*class selector*/
+		backgound-color: green;
+	}
+	
+	#para1 {		/*id selector*/
+		text-align:center;
+	}
