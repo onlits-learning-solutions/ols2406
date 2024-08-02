@@ -1,0 +1,12 @@
+ $_GET[]
+ $_POST[]
+ 
+ request
+ 
+ Pure Java		-	Servlet
+ HTML + Java	-	JSP
+ 
+ 
+ Model			-	POJO (Plain Old Java Objects)
+ View			-	JSP
+ Controller		-	Servlet
