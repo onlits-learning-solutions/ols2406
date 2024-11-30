@@ -1,0 +1,18 @@
+
+	price of house = price per sq. feet x sq. feet
+	
+	predictor variable	=	price per sq. feet
+							sq. feet
+	
+	target variable		=	price of house
+	
+	
+	 5			5)11(2
+	 6			  10
+	--			 -----
+	11				1
+	--			 -----
+	
+	
+	n!	=	f
+	5!	=	120		simple regresion

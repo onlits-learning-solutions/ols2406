@@ -4,23 +4,23 @@
 
 <web-app>
   <display-name>My Todo Application</display-name>
+  <context-param>
+    <param-name>DB_URL</param-name>
+    <param-value>jdbc:mariadb://localhost:3306/todoapp_2406</param-value>
+  </context-param>
+  <context-param>
+    <param-name>DB_USER</param-name>
+    <param-value>ols2406</param-value>
+  </context-param>
+  <context-param>
+    <param-name>DB_PASS</param-name>
+    <param-value>ols2406</param-value>
+  </context-param>
   <servlet>
     <servlet-name>Authenticate</servlet-name>
     <servlet-class>ols2406.todoapp.Authenticate</servlet-class>
     <servlet-name>Authenticate</servlet-name>
     <url-pattern>/Authenticate</url-pattern>
-    <init-param>
-      <param-name>DB_URL</param-name>
-      <param-value>jdbc:mariadb://localhost:3306/todoapp_2406</param-value>
-    </init-param>
-    <init-param>
-      <param-name>DB_USER</param-name>
-      <param-value>ols2406</param-value>
-    </init-param>
-    <init-param>
-      <param-name>DB_PASS</param-name>
-      <param-value>ols2406</param-value>
-    </init-param>
   </servlet>
   <servlet>
     <servlet-name>SaveTask</servlet-name>

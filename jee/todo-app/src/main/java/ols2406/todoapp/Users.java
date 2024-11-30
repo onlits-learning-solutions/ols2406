@@ -18,6 +18,7 @@ public class Users {
                 return 1;
             }
         } catch (Exception exception) {
+            System.out.println(exception);
         }
         return 0;
     }
